@@ -57,7 +57,7 @@ Name[x-test]=xxKDE Connectxx
 Name[zh_CN]=KDE Connect
 Name[zh_TW]=KDE Connect
 Comment=Notifications from your devices
-Comment[ar]=الإخطارات من أجهزتك
+Comment[ar]=الإشعارات من أجهزتك
 Comment[az]=Cihazlarınızdan bildirişlər
 Comment[bg]=Уведомления от устройствата ви
 Comment[bs]=Notifikacija sa Vašeg uređaja
@@ -659,7 +659,7 @@ Action=Popup
 
 [Event/notification]
 Name=Generic Notification
-Name[ar]=إخطار عموميّ
+Name[ar]=إشعار عموميّ
 Name[az]=Ümumi bildirişlər
 Name[bg]=Общо уведомление
 Name[ca]=Notificació genèrica
@@ -712,7 +712,7 @@ Name[x-test]=xxGeneric Notificationxx
 Name[zh_CN]=一般通知
 Name[zh_TW]=通用通知
 Comment=Notification received
-Comment[ar]=استُلم إخطار
+Comment[ar]=استُلم إشعار
 Comment[az]=Bildiriş alındı
 Comment[bg]=Уведомлението е прието
 Comment[bs]=Primjeno obavještenje

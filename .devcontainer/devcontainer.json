@@ -1,13 +1,5 @@
 {
-  "name": "KDE Connect Dev (KDE image)",
-  "image": "ghcr.io/kde/devcontainer/kde-dev-base:latest",
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "ms-vscode.cmake-tools",
-        "ms-vscode.cpptools"
-      ]
-    }
-  },
-  "remoteUser": "vscode"
+  "name": "KDE Connect Dev",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "postCreateCommand": "apt-get update && apt-get install -y cmake build-essential ninja-build git"
 }

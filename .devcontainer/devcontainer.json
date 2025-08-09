@@ -1,5 +1,1 @@
-{
-  "name": "KDE Connect Dev",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "postCreateCommand": "apt-get update && apt-get install -y cmake build-essential ninja-build git"
-}
+"image": "mcr.microsoft.com/devcontainers/base:ubuntu"

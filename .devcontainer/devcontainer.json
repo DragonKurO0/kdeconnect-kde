@@ -1,0 +1,13 @@
+{
+  "name": "KDE Connect Dev (KDE image)",
+  "image": "ghcr.io/kde/devcontainer/kde-dev-base:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools"
+      ]
+    }
+  },
+  "remoteUser": "vscode"
+}
